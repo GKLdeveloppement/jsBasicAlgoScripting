@@ -9,4 +9,4 @@ function convertCtoF(celsius) {
     return fahrenheit;
   }
   
-  convertCtoF(30);
+  convertCtoF(30)
